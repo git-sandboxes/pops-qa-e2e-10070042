@@ -1,40 +1,40 @@
 ---
-name: 🚀 Feature request | addition | improvement
-about: Template for feature requests, additions and improvements
+name: 🚀 기능 요청 | 추가 | 개선
+about: 기능요청, 기능추가, 기능개선 템플릿
 labels: ["status: todo"]
 ---
 
-<!--📚 GitHub issue template -->
-<!-- Copy and paste the title you need!
-🔧 [Feature Request][Category] Which part needs a feature
-⚙️ [Feature][Category] Which part gets a new feature
-🚀 [Improvement][Category] Which part gets improved
-🔥 [Urgent]
-📄 [Docs]
-⌛ [~month/day]
+<!--📚 GitHub 이슈 작성 템플릿 -->
+<!-- 필요한 제목을 복사 붙여넣기하여 사용해주세요!
+🔧 [기능요청][카테고리] 무슨 부분 기능 요청
+⚙️ [기능추가][카테고리] 무슨 부분 기능 추가
+🚀 [기능개선][카테고리] 무슨 부분 기능 개선
+🔥 [긴급]
+📄 [문서]
+⌛ [~월/일]
 -->
 
-📝 Current problem
+📝 현재 문제점
 ---
 
-- Explain why a feature is missing or needs improvement.
+- 특정 기능이 부족하거나 개선이 필요한 이유를 작성해주세요.
 
-🛠️ Proposed solution / feature
+🛠️ 해결 방안 / 제안 기능
 ---
 
-- Describe a concrete way to solve the problem.
-- Describe the new feature or the improvement.
+- 문제를 해결하기 위한 구체적인 방안을 작성해주세요.
+- 새로운 기능 또는 개선 사항에 대한 설명을 작성해주세요.
 
-<!-- Uncomment and use this (for Feature and Improvement)
-⚙️ Work items
+<!-- 주석 해제하고 사용해주세요 (기능추가,기능개선 작성시 작성 하시면됩니다)
+⚙️ 작업 내용
 ---
-- List the work needed to build the feature.
-- Example: API design, frontend screens, etc.
+- 기능 구현에 필요한 작업 항목을 작성합니다.
+- 예: API 설계, 프론트엔드 화면 구성 등.
 -->
 
-🙋‍♂️ Assignees
+🙋‍♂️ 담당자
 ---
 
-- Backend: name
-- Frontend: name
-- Design: name
+- 백엔드: 이름
+- 프론트엔드: 이름
+- 디자인: 이름

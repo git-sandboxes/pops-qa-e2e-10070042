@@ -1,41 +1,41 @@
 ---
-name: 🎨 Design request
-about: Request design work
+name: 🎨 디자인 요청
+about: 디자인 관련 요청을 작성
 labels: ["status: todo"]
 ---
 
-<!--📚 GitHub issue template -->
-<!-- Copy and paste the title you need!
-🎨 [Design][Category] Which part needs design
-🔥 [Urgent]
-⌛ [~month/day]
+<!--📚 GitHub 이슈 작성 템플릿 -->
+<!-- 필요한 제목을 복사 붙여넣기하여 사용해주세요!
+🎨 [디자인][카테고리] 무슨 부분 디자인 요청
+🔥 [긴급]
+⌛ [~월/일]
 -->
 
-🖌️ Request
+🖌️ 요청 내용
 ---
-<!-- Briefly explain the purpose and requirements of the design -->
+<!-- 요청하는 디자인의 목적과 요구사항을 간단히 설명해주세요 -->
 
-- UI design for a new feature, improving a specific screen
+- 새로운 기능의 UI 디자인, 특정 화면 개선
 
-🎯 Expected result
+🎯 기대 결과
 ---
-<!-- Describe clearly what you expect after the design is applied. -->
+<!-- 디자인이 적용된 후 예상되는 결과를 명확히 작성해주세요. -->
 
-- Better visibility by changing a button color, better page layout
+- 버튼 색상을 변경하여 시인성 개선, 페이지 레이아웃 개선
 
-📋 References
+📋 참고 자료
 ---
-<!-- Links to existing designs, Figma, image files, and so on -->
+<!-- 기존 디자인 참고 링크, 피그마, 이미지 파일 등등 첨부 -->
 
-💡 Additional requests
+💡 추가 요청 사항
 ---
-<!-- Anything else that is needed or should be considered -->
+<!-- 추가적으로 필요한 요소나 고려해야 할 점을 작성해주세요 -->
 
-- A specific color palette, fonts, layout ratio
+- 특정 색상 팔레트, 폰트, 레이아웃 비율
 
-🙋‍♂️ Assignees
+🙋‍♂️ 담당자
 ---
 
-- Backend: name
-- Frontend: name
-- Design: name
+- 백엔드: 이름
+- 프론트엔드: 이름
+- 디자인: 이름

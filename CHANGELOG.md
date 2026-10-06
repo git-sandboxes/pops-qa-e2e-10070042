@@ -1,7 +1,16 @@
 # Changelog
 
-**Current version:** 1.1.0  
-**Last updated:** 2026-10-06T15:52:40Z  
+**Current version:** 1.2.0  
+**Last updated:** 2026-10-06T15:57:01Z  
+
+---
+
+## [1.2.0] - 2026-10-06
+
+**PR:** #8  
+
+**New features**
+- Second release item.
 
 ---
 

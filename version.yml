@@ -46,7 +46,7 @@ project_types: ["node"]   # array of types, first entry is primary, safe to edit
 project_paths:                # project folder per type (relative to the repo root)
   node: "."   # package.json
 metadata:
-  last_updated: "2026-10-06 15:42:33"
+  last_updated: "2026-10-06 15:45:25"
   last_updated_by: "template_integrator"
   default_branch: "main"
   integrated_from: "projectops"

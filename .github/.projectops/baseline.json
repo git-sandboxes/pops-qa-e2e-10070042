@@ -1,10 +1,10 @@
 {
   "templateVersion": "4.36.0",
-  "installedAt": "2026-10-06 15:42:33",
+  "installedAt": "2026-10-06 15:56:11",
   "files": {
     "PROJECT-COMMON-CLOSE-ISSUES-ON-RELEASE.yaml": {
-      "installed": "sha256:2c2e0eed1893af6c4f487d01731e921ae3c958abf5d1c418b991d409f4947cae",
-      "rendered": "sha256:2c2e0eed1893af6c4f487d01731e921ae3c958abf5d1c418b991d409f4947cae"
+      "installed": "sha256:46a27c3172768bdc1014f8ac015c9e803381c0f422214081128f295ec4ce50ce",
+      "rendered": "sha256:46a27c3172768bdc1014f8ac015c9e803381c0f422214081128f295ec4ce50ce"
     },
     "PROJECT-COMMON-QA-ISSUE-CREATION-BOT.yaml": {
       "installed": "sha256:f389db9772ea2ea4f8cea17f085dfbcb7875de95f6430249bf393f4599c97549",

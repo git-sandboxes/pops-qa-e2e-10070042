@@ -1,7 +1,16 @@
 # Changelog
 
-**Current version:** 1.2.0  
-**Last updated:** 2026-10-06T15:57:01Z  
+**현재 버전:** 1.3.0  
+**마지막 업데이트:** 2026-10-06T22:32:18Z  
+
+---
+
+## [1.3.0] - 2026-10-06
+
+**PR:** #9  
+
+**New features**
+- Fallback item.
 
 ---
 

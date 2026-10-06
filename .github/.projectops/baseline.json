@@ -1,0 +1,34 @@
+{
+  "templateVersion": "4.36.0",
+  "installedAt": "2026-10-06 15:42:33",
+  "files": {
+    "PROJECT-COMMON-CLOSE-ISSUES-ON-RELEASE.yaml": {
+      "installed": "sha256:2c2e0eed1893af6c4f487d01731e921ae3c958abf5d1c418b991d409f4947cae",
+      "rendered": "sha256:2c2e0eed1893af6c4f487d01731e921ae3c958abf5d1c418b991d409f4947cae"
+    },
+    "PROJECT-COMMON-QA-ISSUE-CREATION-BOT.yaml": {
+      "installed": "sha256:f389db9772ea2ea4f8cea17f085dfbcb7875de95f6430249bf393f4599c97549",
+      "rendered": "sha256:f389db9772ea2ea4f8cea17f085dfbcb7875de95f6430249bf393f4599c97549"
+    },
+    "PROJECT-COMMON-README-VERSION-UPDATE.yaml": {
+      "installed": "sha256:8c26d3dbe0dc61e93e3a9976c3670aea2ec4631c3181da555eb8db27d7f510c9",
+      "rendered": "sha256:8c26d3dbe0dc61e93e3a9976c3670aea2ec4631c3181da555eb8db27d7f510c9"
+    },
+    "PROJECT-COMMON-RELEASE-CHANGELOG.yaml": {
+      "installed": "sha256:08cd7ab3f72bfd03b799aaae238d093248b853e2e5742a9ea79c95609e7d65eb",
+      "rendered": "sha256:08cd7ab3f72bfd03b799aaae238d093248b853e2e5742a9ea79c95609e7d65eb"
+    },
+    "PROJECT-COMMON-SUH-ISSUE-HELPER.yaml": {
+      "installed": "sha256:bc1de988342d128378c093b6ae8be872dbd6da6921cc4b6fb47bf910f514e7a5",
+      "rendered": "sha256:bc1de988342d128378c093b6ae8be872dbd6da6921cc4b6fb47bf910f514e7a5"
+    },
+    "PROJECT-COMMON-SYNC-ISSUE-LABELS.yaml": {
+      "installed": "sha256:fb6339e50e4f48973d68abafebe205a6af4a120b7e9972ae6663db81079b1aad",
+      "rendered": "sha256:fb6339e50e4f48973d68abafebe205a6af4a120b7e9972ae6663db81079b1aad"
+    },
+    "PROJECT-COMMON-VERSION-CONTROL.yaml": {
+      "installed": "sha256:22f1631b1564910f78ba845c2d1674645bf5e1e111e47a5f76f569e4bef16c20",
+      "rendered": "sha256:22f1631b1564910f78ba845c2d1674645bf5e1e111e47a5f76f569e4bef16c20"
+    }
+  }
+}

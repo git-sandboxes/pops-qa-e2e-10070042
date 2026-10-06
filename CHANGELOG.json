@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-06T15:52:40Z",
+    "currentVersion": "1.1.0",
+    "projectType": "node",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "1.1.0",
+      "project_type": "node",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-06",
+      "pr_number": 6,
+      "raw_summary": "## Summary by CodeRabbit\n\n## Release notes\n\n* **New features**\n  * Export rows as CSV.\n\n* **Bug fixes**\n  * Social login no longer fails when a token expires.",
+      "parsed_changes": {
+        "new_features": {
+          "title": "New features",
+          "items": [
+            "Export rows as CSV."
+          ]
+        },
+        "bug_fixes": {
+          "title": "Bug fixes",
+          "items": [
+            "Social login no longer fails when a token expires."
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
